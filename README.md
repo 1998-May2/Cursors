@@ -1,6 +1,6 @@
 # Cursors
 
-冒险岛鼠标指针
+MapleStory Cursors：冒险岛鼠标指针
 
 从网上搜来的缝合品
 
